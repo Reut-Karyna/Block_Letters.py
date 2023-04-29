@@ -8,3 +8,4 @@ print("KK     RRR")
 print("K K    R   R")
 print("K  K   R    R")
 print("K   K  R     R")
+
